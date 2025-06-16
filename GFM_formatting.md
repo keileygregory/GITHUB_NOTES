@@ -114,11 +114,9 @@ $\color{Periwinkle}{\text {Periwinkle text} }$
 
 $\color{Fuchsia}{\text {Fushia purple text} }$
 
-$\color{DarkOrchid}{\text {Dark orchid text} }$
-
 $\color{Mulberry}{\text {Mulberry text} }$
 
-
+$\color{DarkOrchid}{\text {Dark orchid text} }$
 
 
 
