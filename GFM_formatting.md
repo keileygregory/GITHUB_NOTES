@@ -53,10 +53,14 @@ BLOCK QUOTES:
 
 ──────────────────
 
-SYSTEM FORMATTING:
+TABLE:
 
-manual line break
-<br> 
+| Default | Left align | Center align | Right align |
+| - | :- | :-: | -: |
+| 9999999999 | 9999999999 | 9999999999 | 9999999999 |
+| 999999999 | 999999999 | 999999999 | 999999999 |
+| 99999999 | 99999999 | 99999999 | 99999999 |
+| 9999999 | 9999999 | 9999999 | 9999999 |
 
 ──────────────────
 
@@ -167,3 +171,12 @@ $\color{Red}{\text {Red text} }$
 $\color{Gray}{\text {Gray text} }$
 
 $\color{Black}{\text {Black text} }$
+
+──────────────────
+
+SYSTEM FORMATTING:
+
+manual line break
+<br> 
+
+──────────────────
