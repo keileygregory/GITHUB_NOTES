@@ -29,7 +29,7 @@ BASIC TEXT FORMATS:
 
 <sub> superscript text </sub>
 
-
+<sub><sup> small text </sup></sub>
 
 ──────────────────
 
@@ -53,16 +53,40 @@ BLOCK QUOTES:
 
 ──────────────────
 
-
-
-
-
-
-
-──────────────────
+SYSTEM FORMATTING:
 
 manual line break
 <br> 
 
-preserve exact spacing/line breaks (aka "preview" view shows exact code, does not register/enact formatting parts in code)
-<pre>
+──────────────────
+
+TEXT COLORS:
+
+$\color{Aquamarine} {Aquamarine text} $
+
+$\color{BlueGreen} {Blue-green text} $
+
+$\color{Blue} {Blue text} $
+
+$\color{BlueViolet} {Blue-violet text} $
+
+$\color{CadetBlue} {Cadet blue text} $
+
+
+
+
+
+
+
+
+$\color{CarnationPink} {Carnation pink text} $
+
+
+
+$\color{BurntOrange} {Burnt orange text} $
+
+
+
+
+
+$\color{Black} {Black text} $
