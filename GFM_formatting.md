@@ -62,31 +62,65 @@ manual line break
 
 TEXT COLORS:
 
-$\color{Aquamarine} {Aquamarine text} $
+Italizced colored text:
 
-$\color{BlueGreen} {Blue-green text} $
+$\color{Cyan} {Cyan\ blue\ text} $
 
-$\color{Blue} {Blue text} $
+Non-italizced colored text:
 
-$\color{BlueViolet} {Blue-violet text} $
+$\color{LimeGreen}{\text {Lime green text} }$
 
-$\color{CadetBlue} {Cadet blue text} $
+$\color{Green}{\text {Green text} }$
+
+$\color{ForestGreen}{\text {Forest green text} }$
+
+$\color{JungleGreen}{\text {Jungle green text} }$
+
+$\color{Emerald}{\text {Emerald text} }$
+
+$\color{BlueGreen}{\text {Blue-green text} }$
+
+$\color{Aquamarine}{\text {Aquamarine text} }$
+
+$\color{Cerulean}{\text {Cerulean blue text} }$
+
+$\color{Cyan}{\text {Cyan blue text} }$
+
+$\color{CornflowerBlue}{\text {Cornflower blue text} }$
+
+$\color{Blue}{\text {Blue text} }$
+
+$\color{CadetBlue}{\text {Cadet blue text} }$
+
+$\color{BlueViolet}{\text {Blue-violet text} }$
 
 
 
 
 
+$\color{Fuchsia}{\text {Fushia text} }$
 
+$\color{DarkOrchid}{\text {Dark orchid fushia text} }$
 
+$\color{LavenderPink}{\text {Lavender light pink text} }$
 
-$\color{CarnationPink} {Carnation pink text} $
-
-
-
-$\color{BurntOrange} {Burnt orange text} $
-
+$\color{CarnationPink}{\text {Carnation pink text} }$
 
 
 
 
-$\color{Black} {Black text} $
+$\color{BurntOrange}{\text {Burnt orange text} }$
+
+$\color{Dandelion}{\text {Dandelion light orange text} }$
+
+$\color{Goldenrod}{\text {Goldenrod light yellow text} }$
+
+
+
+#######
+$\color{Color}{\text {Color text} }$
+#######
+
+$\color{Gray}{\text {Gray text} }$
+
+$\color{Black}{\text {Black text} }$
