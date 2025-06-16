@@ -6,7 +6,7 @@ HEADING LEVELS:
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
-
+  
 ──────────────────
 
 BASIC TEXT FORMATS:
@@ -17,7 +17,19 @@ BASIC TEXT FORMATS:
 
 ***bold and italic text***
 
-<samp>monospaced text</samp>
+<samp> monospaced text </samp>
+
+<ins> underlined text </ins>
+
+~~strikethrough text~~
+
+<table><tr><td> boxed text </td></tr></table>
+
+<sub> subscript text </sub>
+
+<sub> superscript text </sub>
+
+
 
 ──────────────────
 
@@ -51,3 +63,6 @@ BLOCK QUOTES:
 
 manual line break
 <br> 
+
+preserve exact spacing/line breaks (aka "preview" view shows exact code, does not register/enact formatting parts in code)
+<pre>
