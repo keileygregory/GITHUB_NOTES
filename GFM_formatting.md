@@ -17,7 +17,37 @@ BASIC TEXT FORMATS:
 
 ***bold and italic text***
 
+<samp>monospaced text</samp>
+
 ──────────────────
 
 BLOCK QUOTES:
 
+> one line block quote
+
+<br>
+
+> multiple
+> 
+> equal lines
+> 
+> block quote
+
+<br>
+
+> multiple
+>> tiered line
+>>> block quote
+
+──────────────────
+
+
+
+
+
+
+
+──────────────────
+
+manual line break
+<br> 
