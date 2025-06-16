@@ -25,6 +25,8 @@ BASIC TEXT FORMATS:
 
 <table><tr><td> boxed text </td></tr></table>
 
+<table><tr><td><b> bold boxed text </b></td></tr></table>
+
 <sub> subscript text </sub>
 
 <sub> superscript text </sub>
