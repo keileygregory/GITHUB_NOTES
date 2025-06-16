@@ -68,9 +68,9 @@ $\color{Cyan} {Cyan\ blue\ text} $
 
 Non-italizced colored text:
 
-$\color{LimeGreen}{\text {Lime green text} }$
-
 $\color{OliveGreen}{\text {Olive green text} }$
+
+$\color{LimeGreen}{\text {Lime green text} }$
 
 $\color{Green}{\text {Green text} }$
 
@@ -86,48 +86,65 @@ $\color{BlueGreen}{\text {Blue-green text} }$
 
 $\color{Aquamarine}{\text {Aquamarine text} }$
 
+$\color{MidnightBlue}{\text {Midnight blue text} }$
+
 $\color{Cerulean}{\text {Cerulean blue text} }$
+
+$\color{ProcessBlue}{\text {Process blue text} }$
 
 $\color{Cyan}{\text {Cyan blue text} }$
 
 $\color{CornflowerBlue}{\text {Cornflower blue text} }$
 
-
 $\color{NavyBlue}{\text {Navy blue text} }$
 
-$\color{MidnightBlue}{\text {Midnight blue text} }$
+$\color{RoyalBlue}{\text {Royal blue text} }$
+
+$\color{CadetBlue}{\text {Cadet blue text} }$
+
 
 
 $\color{Blue}{\text {Blue text} }$
 
 $\color{BlueViolet}{\text {Blue-violet text} }$
 
-$\color{CadetBlue}{\text {Cadet blue text} }$
-
-$\color{Orchid}{\text {Orchid purple text} }$
-
-
-
 $\color{Periwinkle}{\text {Periwinkle text} }$
 
+$\color{RoyalPurple}{\text {Royal purple text} }$
 
+
+
+
+
+
+
+
+$\color{Plum}{\text {Plum purple text} }$
 
 $\color{Fuchsia}{\text {Fushia purple text} }$
 
-$\color{Mulberry}{\text {Mulberry text} }$
+$\color{Purple}{\text {Purple text} }$
+
+$\color{Orchid}{\text {Orchid purple text} }$
 
 $\color{DarkOrchid}{\text {Dark orchid text} }$
+
+$\color{Mulberry}{\text {Mulberry text} }$
+
 
 
 
 
 $\color{Magenta}{\text {Magenta pink text} }$
 
+$\color{Rhodamine}{\text {Rhodamine pink text} }$
+
 $\color{CarnationPink}{\text {Carnation pink text} }$
 
 $\color{Lavender}{\text {Lavender light pink text} }$
 
 
+$\color{RubineRed}{\text {Rubine red text} }$
 
 $\color{OrangeRed}{\text {Orange red text} }$
 
@@ -138,7 +155,11 @@ $\color{BurntOrange}{\text {Burnt orange text} }$
 
 $\color{Peach}{\text {Peach orange text} }$
 
+$\color{Salmon}{\text {Salmon orange text} }$
+
 $\color{Melon}{\text {Melon orange text} }$
+
+$\color{Apricot}{\text {Apricot orange text} }$
 
 $\color{Dandelion}{\text {Dandelion light orange text} }$
 
@@ -149,6 +170,8 @@ $\color{Goldenrod}{\text {Goldenrod light yellow text} }$
 #######
 $\color{Color}{\text {Color text} }$
 #######
+
+$\color{Red}{\text {Red text} }$
 
 $\color{Gray}{\text {Gray text} }$
 
