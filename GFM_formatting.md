@@ -78,15 +78,19 @@ $\color{ForestGreen}{\text {Forest green text} }$
 
 $\color{PineGreen}{\text {Pine green text} }$
 
+$\color{SeaGreen}{\text {Sea green text} }$
+
 $\color{JungleGreen}{\text {Jungle green text} }$
 
 $\color{Emerald}{\text {Emerald text} }$
+
+$\color{TealBlue}{\text {Teal text} }$
 
 $\color{BlueGreen}{\text {Blue-green text} }$
 
 $\color{Aquamarine}{\text {Aquamarine text} }$
 
-$\color{MidnightBlue}{\text {Midnight blue text} }$
+$\color{SkyBlue}{\text {Sky blue text} }$
 
 $\color{Cerulean}{\text {Cerulean blue text} }$
 
@@ -95,6 +99,8 @@ $\color{ProcessBlue}{\text {Process blue text} }$
 $\color{Cyan}{\text {Cyan blue text} }$
 
 $\color{CornflowerBlue}{\text {Cornflower blue text} }$
+
+$\color{MidnightBlue}{\text {Midnight blue text} }$
 
 $\color{NavyBlue}{\text {Navy blue text} }$
 
@@ -148,14 +154,14 @@ $\color{RubineRed}{\text {Rubine red text} }$
 
 $\color{OrangeRed}{\text {Orange red text} }$
 
+$\color{Salmon}{\text {Salmon text} }$
+
 
 $\color{Orange}{\text {Orange text} }$
 
 $\color{BurntOrange}{\text {Burnt orange text} }$
 
 $\color{Peach}{\text {Peach orange text} }$
-
-$\color{Salmon}{\text {Salmon orange text} }$
 
 $\color{Melon}{\text {Melon orange text} }$
 
