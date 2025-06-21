@@ -5,11 +5,11 @@
 │<br>
 │<br>
 │<br>
-│-- **code_scripts/** <br>
+│-- **code_scripts/** $\color{Cyan}{\text {code_scripts description} }$ <br>
 │   │<br>
 │   │<br>
 │   │<br>
-│   │-- acoustic_scripts/
+│   │-- **acoustic_scripts/** <br>
 │   │   │
 │   │   │
 │   │   ├── interpolate_acoustic_scripts/
